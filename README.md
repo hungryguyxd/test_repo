@@ -10,3 +10,5 @@
 ![ebalo](https://github.com/hungryguyxd/test_repo/actions/workflows/test2.yaml/badge.svg)
 
 ![eo](https://github.com)
+
+![eo](https://microsoft.com)
